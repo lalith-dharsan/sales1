@@ -1,4 +1,4 @@
 dependencies:
   - pip==21.2.4
-  - plotly==5.6.0
+
   - pyodbc==5.1.0
